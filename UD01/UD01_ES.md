@@ -124,7 +124,7 @@ Los lenguajes de segunda generación tienen definidas unas instrucciones para re
 
 ### Alto nivel (3ª, 4ª y 5ª Generación)
 
-Los lenguajes de alto nivel son aquellos que expresan sus algoritmos de forma comprensible por la capacidad humana, en lugar de la capacidad de las máquinas. Generan un código más sencillo y comprensible, permitiendo que en algunos casos pueda ser para diferentes máquinas o sistemas operativos. Permiten utilizar diferentes paradigmas de programación. Ejemplos: Java, Ada, Visual BASIC, VB .NET, C#, FORTRAN, Lisp, Pascal, Python, Perl, PHP, Ruby, SQL
+Los lenguajes de **alto nivel** son aquellos que expresan sus algoritmos de forma comprensible por la capacidad humana, en lugar de la capacidad de las máquinas. Generan un código más sencillo y comprensible, permitiendo que en algunos casos pueda ser para diferentes máquinas o sistemas operativos. Permiten utilizar diferentes paradigmas de programación. Ejemplos: Java, Ada, Visual BASIC, VB .NET, C#, FORTRAN, Lisp, Pascal, Python, Perl, PHP, Ruby, SQL
 
 **(3ª Generación)**
 
